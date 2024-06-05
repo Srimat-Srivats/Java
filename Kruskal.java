@@ -3,7 +3,6 @@ import java.util.Queue;
 import java.util.LinkedList;
 import java.util.HashMap;
 import java.util.ArrayList;
-import java.util.Stack;
 
 public class Kruskal{
 	static class Edge implements Comparable<Edge>{
